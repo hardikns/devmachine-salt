@@ -18,6 +18,7 @@ required_pkgs:
             - eclipse
             - libxml2-dev 
             - libxslt1-dev
+            - libldap2-dev
             
 Create sym links for PIL:
     cmd.run:
